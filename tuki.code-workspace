@@ -1,0 +1,48 @@
+{
+	"settings": { 
+		"files.associations": {
+			"*.h": "c",
+			"cstdlib": "c",
+			"cmath": "c",
+			"compare": "c",
+			"concepts": "c",
+			"cstdarg": "c",
+			"cstdio": "c",
+			"type_traits": "c",
+			"limits": "c",
+			"new": "c",
+			"*.tcc": "c",
+			"cstdbool": "c",
+			"cstdint": "c",
+			"typeinfo": "c",
+			"random": "c"
+		}, 
+		"C_Cpp.errorSquiggles": "disabled", 
+	},
+	"folders": [
+		{
+			"name": "consola",
+			"path": "consola"
+		},
+		{
+			"name": "kernel",
+			"path": "kernel"
+		},
+		{
+			"name": "cpu",
+			"path": "cpu"
+		},
+		{
+			"name": "file-system",
+			"path": "file-system"
+		},
+		{
+			"name": "memoria",
+			"path": "memoria"
+		},
+		{
+			"name": "utils",
+			"path": "utils"
+		}
+	]
+}

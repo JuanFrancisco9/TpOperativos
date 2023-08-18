@@ -1,0 +1,28 @@
+{
+	"settings": { 
+		"files.associations": { 
+			"*.h": "c", 
+		}, 
+		"C_Cpp.errorSquiggles": "disabled", 
+	},
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../utils"
+		},
+		{
+			"path": "../cpu"
+		},
+		{
+			"path": "../file-system"
+		},
+		{
+			"path": "../kernel"
+		},
+		{
+			"path": "../memoria"
+		}
+	]
+}
